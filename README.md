@@ -1,1 +1,1 @@
-# Advent of Code 2020 (Java)
+# Advent of Code 2020 (Python 3.9)
