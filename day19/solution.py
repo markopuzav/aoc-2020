@@ -1,5 +1,3 @@
-import re
-
 Message = str
 Expansion = list[tuple[str, ...]]
 
